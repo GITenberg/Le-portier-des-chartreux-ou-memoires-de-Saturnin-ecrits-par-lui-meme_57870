@@ -1,11 +1,16 @@
 _repo: Le-portier-des-chartreux-ou-memoires-de-Saturnin-ecrits-par-lui-meme_57870
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57870-h/images/cover.jpg
 creator:
   author:
     agent_name: Touche, Jean Charles Gervaise de la
     gutenberg_agent_id: '49662'
     url: http://www.gutenberg.org/2009/agents/49662
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57870#Le-portier-des-chartreux-ou-memoires-de-Saturnin-ecrits-par-lui-meme
 gutenberg_bookshelf:
 - FR Séduction et libertinage
 - FR Nouveautés
